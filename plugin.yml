@@ -1,0 +1,7 @@
+name: Jobs
+version: 1.0
+author: OxYz
+main: fr.oxyz.main.Start
+commands:
+  jobs:
+    alliases: [job]
